@@ -47,7 +47,7 @@ const Navbar = () => {
 
 
                 {/* right side menu */}
-                <div className="flex flex-row-reverse   mr-[500px]  gap-7 items-center">
+                <div className="flex flex-row-reverse   mr-[400px]  gap-7 items-center">
                     
                     <div className="text-gray-200 hover:text-gray-300 cursor-pointer transition">
                         <BsSearch />
